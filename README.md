@@ -5,6 +5,8 @@ Starter repository for a fullstack app with:
 - `api`: Fastify + Prisma backend for PostgreSQL
 - `.github/workflows/deploy.yml`: container build and deployment workflow
 
+Tiny edit.
+
 ## Project structure
 
 ```
